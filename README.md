@@ -61,9 +61,9 @@
 ## 📊 Estadísticas de GitHub  
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessicaborda&theme=radical" alt="Lenguajes usados en repositorios" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jessicaborda&theme=radical" alt="Lenguajes con más commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessicaborda&theme=radical" alt="Estadísticas generales" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessicaborda&theme=dark" alt="Lenguajes usados en repositorios" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jessicaborda&theme=dark" alt="Lenguajes con más commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessicaborda&theme=dark" alt="Estadísticas generales" />
 </div>
 
 
