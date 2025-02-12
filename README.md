@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>
-    ¡Hola! Mi nombre es Jessica Borda, soy arquitecta civil de profesión, por lo cual mi verdadera pasión siempre ha sido el diseño. A lo largo de mi carrera, he desarrollado una fuerte afinidad por la creación de espacios y soluciones que mejoren la experiencia de las personas. Esta pasión me ha llevado a adentrarme en el mundo del desarrollo de software y el diseño UX, donde puedo combinar mi formación técnica con mi amor por el diseño centrado en el usuario.  
+    ¡Hola! Mi nombre es Jessica Borda, soy Frontend Developer, actualmente soy estudiante de Arquitectura Cloud, sin embargo también soy Arquitecta civil, por lo cual mi verdadera pasión siempre ha sido el diseño. A lo largo de mi carrera, he desarrollado una fuerte afinidad por la creación de espacios y soluciones que mejoren la experiencia de las personas. Esta pasión me ha llevado a adentrarme en el mundo del desarrollo de software y el diseño UX, donde puedo combinar mi formación técnica con mi amor por el diseño centrado en el usuario.  
   </p>
 </div>
 
@@ -25,7 +25,7 @@
       </td>
       <td style=""border: 2px solid #5D2E8C; border-radius: 10px; padding: 15px; width: 30%; text-align: center; vertical-align: top;">
         <h3>🏗️ Arquitectura</h3>
-        <p>Mi formación como arquitecta me ha enseñado a equilibrar la estética con la funcionalidad, a planificar, estructurar y prestar atención a los aspectos técnicos de los proyectos, lo cual me ha permitido trasladar esas habilidades al desarrollo de interfaces web, creando experiencias que no solo sean visualmente atractivas, sino también prácticas y funcionales.</p>
+        <p>Mi formación como arquitecta me ha enseñado a equilibrar la estética con la funcionalidad, a planificar, estructurar y prestar atención a los aspectos técnicos de los proyectos, lo cual me ha preparado para gestionar proyectos de manera eficiente y productiva</p>
       </td>
     </tr>
   </table>
