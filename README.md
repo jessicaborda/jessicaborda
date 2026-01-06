@@ -53,13 +53,11 @@
 
 ## 🚀 Proyectos
 
-### 📝 [BAUHAUS_COMPONENTS]([https://github.com/jessicaborda/jess-borda](https://github.com/jessicaborda/jess-borda))  
+### 📝 [BAUHAUS_COMPONENTS]([https://github.com/jessicaborda/Bauhaus_components](https://github.com/jessicaborda/Bauhaus_components))
 📌 Librería de componentes UI diseñados a partir del estilo Bauhaus, listos para instalación y uso en páginas web modernas.s  
 
-### 📝 [BAUHAUS_CONCEPT]([https://github.com/jessicaborda/jess-borda](https://github.com/jessicaborda/jess-borda))
+### 📝 [BAUHAUS_CONCEPT]([https://github.com/jessicaborda/Bauhaus_concept](https://github.com/jessicaborda/Bauhaus_concept))
 📌 Página web informativa con el contenido de la librería Bauhaus Components, usos y características.
-
-
 
 ### 🎨 [QUALI]([https://github.com/jessicaborda/presentation-react-values](https://github.com/jessicaborda/presentation-react-values)) 
 📌 Plataforma para visualización de cursos online enfocados en el entorno laboral(Prueba de concepto)
