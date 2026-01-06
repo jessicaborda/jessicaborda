@@ -64,10 +64,12 @@
 ### 🎨 [QUALI]([https://github.com/jessicaborda/presentation-react-values](https://github.com/jessicaborda/presentation-react-values)) 
 📌 Plataforma para visualización de cursos online enfocados en el entorno laboral(Prueba de concepto)
 
-
-## 🚀 Actividad Reciente  
+## 📊 Estadísticas de GitHub  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jessicaborda&theme=react-dark" alt="Gráfico de actividad" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessicaborda&theme=radical" alt="Lenguajes usados en repositorios" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jessicaborda&theme=radical" alt="Lenguajes con más commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessicaborda&theme=radical" alt="Estadísticas generales" />
 </div>
+
 
