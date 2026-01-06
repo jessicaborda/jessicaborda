@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>
-    ¡Hola! Mi nombre es Jessica Borda, soy Frontend Developer, actualmente soy estudiante de Arquitectura Cloud, sin embargo también soy Arquitecta civil, por lo cual mi verdadera pasión siempre ha sido el diseño. A lo largo de mi carrera, he desarrollado una fuerte afinidad por la creación de espacios y soluciones que mejoren la experiencia de las personas. Esta pasión me ha llevado a adentrarme en el mundo del desarrollo de software y el diseño UX, donde puedo combinar mi formación técnica con mi amor por el diseño centrado en el usuario.  
+    Soy Jessica Borda, Frontend Developer y UX/UI Designer con formación en Arquitectura. Me especializo en crear experiencias digitales centradas en el usuario, combinando diseño, usabilidad y desarrollo de software. Tengo experiencia en React, HTML, CSS y JavaScript, y disfruto transformar ideas en interfaces funcionales, atractivas y eficientes. Mi enfoque está en entregar soluciones que mejoren la experiencia del usuario, aporten valor a los productos y faciliten la interacción con la tecnología.  
   </p>
 </div>
 
@@ -17,7 +17,7 @@
     <tr>
       <td style=""border: 2px solid #5D2E8C; border-radius: 10px; padding: 15px; width: 30%; text-align: center; vertical-align: top;">
         <h3>💻 Desarrollo Frontend</h3>
-        <p>En mi proceso de aprendizaje he trabajando con tecnologías clave como HTML, CSS, JavaScript y React, lo que me permitecrear interfaces web interactivas, dinámicas y visualmente atractivas. Mi enfoque se centra en escribir código limpio, eficiente y fácil de mantener.</p>
+        <p>En mi proceso de aprendizaje he trabajando con tecnologías clave como HTML, CSS, JavaScript, React, Astro y Next.js, lo que me permite crear interfaces web interactivas, dinámicas y visualmente atractivas. Mi enfoque se centra en escribir código limpio, eficiente y fácil de mantener.</p>
       </td>
       <td style=""border: 2px solid #5D2E8C; border-radius: 10px; padding: 15px; width: 30%; text-align: center; vertical-align: top;">
         <h3>🎨 Diseño UX</h3>
@@ -37,34 +37,32 @@
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
-    <img src="https://img.shields.io/badge/AutoCAD-E72127?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD-E72127?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-FF5A1F?style=for-the-badge&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-FF69B4?style=for-the-badge&logo=antigravity&logoColor=white" />
   </div>
 </div>
 
 
-## 🚀 Proyectos  
+## 🚀 Proyectos
 
-### 📝 [VISUALCODE]([https://github.com/jessicaborda/jess-borda](https://github.com/jessicaborda/jess-borda))  
-![GitHub Repo stars](https://img.shields.io/github/stars/jessicaborda/jess-borda?style=social)  
-📌 Página web para visualización de ejercicios de lógica realizados en JS y React, con implementación de layouts específicos para cada ejercicio.  
+### 📝 [BAUHAUS_COMPONENTS]([https://github.com/jessicaborda/jess-borda](https://github.com/jessicaborda/jess-borda))  
+📌 Librería de componentes UI diseñados a partir del estilo Bauhaus, listos para instalación y uso en páginas web modernas.s  
 
-### 🎨 [CONCEPTOS_PROGRAMACIÓN]([https://github.com/jessicaborda/presentation-react-values](https://github.com/jessicaborda/presentation-react-values))
-![GitHub Repo stars](https://img.shields.io/github/stars/jessicaborda/presentation-react-values?style=social)   
-📌 Este proyecto está diseñado para poner en práctica y explicar conceptos clave de programación de manera sencilla y aplicada. 
+### 📝 [BAUHAUS_CONCEPT]([https://github.com/jessicaborda/jess-borda](https://github.com/jessicaborda/jess-borda))
+📌 Página web informativa con el contenido de la librería Bauhaus Components, usos y características.
 
 
-## 📊 Estadísticas de GitHub  
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessicaborda&theme=dark" alt="Lenguajes usados en repositorios" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jessicaborda&theme=dark" alt="Lenguajes con más commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessicaborda&theme=dark" alt="Estadísticas generales" />
-</div>
+### 🎨 [QUALI]([https://github.com/jessicaborda/presentation-react-values](https://github.com/jessicaborda/presentation-react-values)) 
+📌 Plataforma para visualización de cursos online enfocados en el entorno laboral(Prueba de concepto)
 
 
 ## 🚀 Actividad Reciente  
